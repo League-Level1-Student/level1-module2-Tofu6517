@@ -33,6 +33,16 @@ This is because there is no Minion class in the package.
     
  */
 
+public class Minion{
+	private String name; 
+	private int eyes; 
+	private String color; 
+	private String master;
+	public void constructor() {
+		
+	}
+}
+
 public class MinionTest {
 
 	@Test
